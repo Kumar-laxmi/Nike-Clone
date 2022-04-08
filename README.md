@@ -28,4 +28,8 @@ It is a Clone of Nike Website
 
 
 ### Screen-Shot of Clone:
-<img src="#" alt="Nike Clone">
+<img src="./IMG/Screenshot-1.png" alt="Nike Clone">
+<img src="./IMG/Screenshot-2.png" alt="Nike Clone">
+<img src="./IMG/Screenshot-3.png" alt="Nike Clone">
+<img src="./IMG/Screenshot-4.png" alt="Nike Clone">
+<img src="./IMG/Screenshot-5.png" alt="Nike Clone">
