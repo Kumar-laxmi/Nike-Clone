@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/Kumar-laxmi/Nike-Clone/issues"
   },
-  "homepage": "https://github.com/Kumar-laxmi/Nike-Clone#readme",
-  "dependencies": {
-    "font-awesome": "^4.7.0"
-  }
+  "homepage": "https://github.com/Kumar-laxmi/Nike-Clone#readme"
 }
