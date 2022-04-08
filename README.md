@@ -6,7 +6,7 @@ It is a Clone of Nike Website
 |-------------|------|
 | GitHub Pages | [GitHub Pages](https://kumar-laxmi.github.io/Nike-Clone/) |
 | Vercel Preview | [Vercel Preview](https://wikipedia-clone-lwowslzju-kumar-laxmi.vercel.app/) |
-| Vercel Production | [Vercel Production](https://wikipedia-clone-6ik5n7dw8-kumar-laxmi.vercel.app/)
+| Vercel Production | [Vercel Production](https://nike-clone-3zpxwddmb-kumar-laxmi.vercel.app/)
 
 ### Technology Stack
 #### Languages:
