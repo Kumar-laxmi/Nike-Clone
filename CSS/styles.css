@@ -1,38 +1,14 @@
 @font-face {
     font-family: Nike Futura;
-    src: url(../FONT/Futura\ Condensed\ Extra\ Bold\ Oblique.otf) format("opentype");
+    src: url(../FONT/Nike-Futura/Futura\ Condensed\ Extra\ Bold\ Oblique.otf) format("opentype");
 }
 
-/* latin-ext */
 @font-face {
-    font-family: 'Bebas Neue';
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url(https://fonts.gstatic.com/s/bebasneue/v8/JTUSjIg69CK48gW7PXoo9Wdhyzbi.woff2) format('woff2');
-    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-  /* latin */
-@font-face {
-    font-family: 'Bebas Neue';
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url(https://fonts.gstatic.com/s/bebasneue/v8/JTUSjIg69CK48gW7PXoo9Wlhyw.woff2) format('woff2');
-    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    font-family: Helvetica Neue;
+    src: url(../FONT/Helvetica-Neus/Pragmatica-ExtraLight.woff) format("opentype");
 }
 
-.carousel .carousel-item {
-    height: 500px;
-}
-  
-.carousel-item img {
-    position: absolute;
-    object-fit:cover;
-    top: 0;
-    left: 0;
-    min-height: 500px;
-}
+
 
 .text1 {
     font-family: "Helvetica Neue";
@@ -42,9 +18,16 @@
 }
 
 .text2 {
-    font-family: 'Bebas Neue', cursive;
+    font-family: "Nike Futura";
     font-weight: 500;
     font-size: 72px;
     line-height: 60px;
     margin-bottom: 8px;
+}
+
+.sandal-heading {
+    font-family: "Helvetica Neue";
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
 }
